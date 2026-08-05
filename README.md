@@ -8,7 +8,6 @@ dari koktail klasik hingga atmosfer kota yang tak terlupakan.
 Cara Menjalankan Website
 Buka terminal di folder proyek:
 
-cd C:\Users\ThinkPad T14\Desktop\bar
 Install dependency:
 
 npm install
